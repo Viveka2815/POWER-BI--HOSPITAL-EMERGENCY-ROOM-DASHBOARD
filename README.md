@@ -1,5 +1,56 @@
-# POWER-BI--HOSPITAL-EMERGENCY-ROOM-DASHBOARD
-Developed an interactive Power BI dashboard to monitor emergency room KPIs including patient inflow, wait times, triage levels, and resource utilization.  Enabled hospital staff to make real-time, data-driven decisions, improving operational efficiency and patient care outcomes.
-To enhance operational efficiency and provide actionable insights into emergency room performance, we need to create a Hospital Emergency Room Analysis Dashboard in Power BI. This solution will enable stakeholders to track, analyze, and make data-driven decisions regarding patient management and service optimization.
-#dataset used
--<a href=https://github.com/Viveka2815/POWER-BI--HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/hospital.pbix>dataset</a>
+# Hospital Emergency Room Dashboard (Power BI)
+
+## 📌 Project Overview
+An **interactive healthcare analytics dashboard** built using **Power BI** to monitor emergency room (ER) operations, patient flow, and treatment performance.  
+The goal is to enable hospital administrators to **improve patient care, reduce wait times, and optimize resource allocation**.
+
+---
+
+## 📊 Key Features
+
+### **1. Summary View**
+![Summary View](Summary.jpg)
+- **KPIs**:
+  - Total Patients Admitted
+  - Average Wait Time
+  - Average Treatment Time
+  - Patient Satisfaction Rate
+  - Total Discharges
+- **Status Overview**:
+  - Treated & Discharged
+  - Under Treatment
+  - Critical Condition
+
+---
+
+### **2. Patient Demographics**
+![Demographics View](Demographics.jpg)
+- **Gender Distribution** – Male vs Female vs Other.
+- **Age Group Segmentation** – Children, Adults, Seniors.
+- **Location Insights** – Patient counts by residential area.
+
+---
+
+### **3. Operational Insights**
+![Operations View](Operations.jpg)
+- **Wait Time Analysis** – Peak hours and days with longest delays.
+- **Treatment Department Analysis** – e.g., Cardiology, Orthopedics, General Medicine.
+- **Resource Utilization** – Doctor availability, bed occupancy rate.
+- **Emergency Severity Analysis** – Low, Medium, High cases.
+
+---
+
+## 🔍 Key Insights
+- Peak ER demand occurs during **evening hours** and **weekends**.
+- **Adults (30–50 years)** form the largest patient segment.
+- **High-severity cases** require significantly more treatment time.
+- Certain departments consistently have **higher patient loads**, indicating staffing adjustments may be needed.
+
+---
+
+## 🛠 Tools & Skills Used
+- **Power BI** – DAX Measures, KPI Cards, Donut & Bar Charts, Slicers.
+- **Data Modeling** – Relationships between patient data tables and operational logs.
+- **Data Cleaning** – Removing duplicates, handling nulls, standardizing formats.
+- **Dashboard Design** – Navigation tabs, consistent theme, intuitive layouts.
+
