@@ -1,5 +1,7 @@
 # Hospital Emergency Room Dashboard (Power BI)
 
+https://app.powerbi.com/links/IwAwmmeP3H?ctid=b188025d-601a-4988-829e-12bbd29d8f2e&pbi_source=linkShare
+
 ## 📌 Project Overview
 An **interactive healthcare analytics dashboard** built using **Power BI** to monitor emergency room (ER) operations, patient flow, and treatment performance.  
 The goal is to enable hospital administrators to **improve patient care, reduce wait times, and optimize resource allocation**.
